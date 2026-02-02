@@ -3,7 +3,7 @@
 import React from 'react';
 import AuthenticatedLayout from '@/components/layouts/authenticated-layout';
 import { Card, Badge } from '@/components/ui';
-import { Settings, Shield, Bell, Palette, Lock, Users } from 'lucide-react';
+import { Shield, Bell, Palette, Lock, Users } from 'lucide-react';
 
 /**
  * Settings Page
